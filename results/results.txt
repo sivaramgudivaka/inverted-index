@@ -1,0 +1,27 @@
+tf-idf
+------
+uninterpolated mean average precision:
+    at 0.10       0.4707
+    at 0.30       0.3194
+Average precision 0.2510
+
+okapi-bm25
+------
+uninterpolated mean average precision:
+    at 0.10       0.4473
+    at 0.30       0.3164
+Average precision 0.2493
+
+Unigram LM with Laplace smoothing
+------
+uninterpolated mean average precision:
+    at 0.10       0.4136
+    at 0.30       0.2459
+Average precision 0.1774
+
+Proximity Search
+------
+uninterpolated mean average precision:
+    at 0.10       0.5228
+    at 0.30       0.2035
+Average precision 0.1584
